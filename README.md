@@ -15,7 +15,7 @@
 
 ### VELOG
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=manta)](https://github.com/manta/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=manta)](https://github.com/eungyeole/velog-readme-stats)
 
 
 <!--
