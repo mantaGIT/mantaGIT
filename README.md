@@ -1,10 +1,22 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%24+ls+-a+%7C+grep+projects-skills" alt="Typing SVG" /></a>
+<div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%24+ls+-a+%7C+grep+project-languages" alt="Typing SVG" /></a>
+</div>
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantaGIT&layout=compact">
+</div>
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantaGIT&layout=compact)
+<div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%24+ls+-a+%7C+grep+study-languages" alt="Typing SVG" /></a>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panggin&layout=compact">
+</div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%24+ls+-a+%7C+grep+study-skills" alt="Typing SVG" /></a>
+### VELOG
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panggin&layout=compact)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=manta)](https://github.com/manta/velog-readme-stats)
+
 
 <!--
 **mantaGIT/mantaGIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
